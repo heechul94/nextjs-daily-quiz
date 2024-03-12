@@ -1,4 +1,4 @@
-import CSR from "../components/CSR";
+import CSR from "../../components/CSR";
 
 const CsrPage = () => {
   return (

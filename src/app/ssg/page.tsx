@@ -1,4 +1,4 @@
-import SSG from "../components/SSG";
+import SSG from "../../components/SSG";
 
 const SsgPage = () => {
   return (

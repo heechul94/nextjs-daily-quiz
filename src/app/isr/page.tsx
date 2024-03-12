@@ -1,5 +1,5 @@
 import React from "react";
-import ISR from "../components/ISR";
+import ISR from "../../components/ISR";
 
 export const revalidate = 5;
 
